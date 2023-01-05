@@ -1,0 +1,3 @@
+index:				4		5		10		20		25		30
+Tetranacci numbers:		1		1		29		773		20569		547337
+Time elapsed(ns):		1500		800		900		1300		1600		4000
