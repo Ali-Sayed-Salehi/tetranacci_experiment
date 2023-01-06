@@ -57,9 +57,9 @@ public class Main {
     try {
       
       BufferedWriter writer = new BufferedWriter(new FileWriter
-      ("C:\\Users\\alals\\Desktop\\Good Tetranacci\\tetraGood_output.txt"));
+      ("tetraGood_output.txt"));
       
-      writer.write("index:\t\t\t\t4\t\t5\t\t10\t\t20\t\t25\t\t30\n");
+      writer.write("index:\t\t\t\t4\t\t5\t\t10\t\t15\t\t20\t\t25\n");
       writer.write("Tetranacci numbers:");
 
       for (long num1 : result) {

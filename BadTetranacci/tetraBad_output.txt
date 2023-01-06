@@ -1,3 +1,3 @@
-index:				1		5		10		20		25		30
+index:				1		5		10		15		20		25
 Tetranacci numbers:		0		1		29		773		20569		547337
-Time elapsed (ns):		1000		500		5000		96700		353800		5050700
+Time elapsed (ns):		819		431		7570		181783		238163		3588764
